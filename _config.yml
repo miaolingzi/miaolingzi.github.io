@@ -76,5 +76,5 @@ deploy:
 #  repository: git@github.com/miaolingzi/miaolingzi.github.io.git
 #  branch: master
   type: github
-  repository: git@github.com/miaolingzi/miaolingzi.github.io.git
+  repository: git@github.com:miaolingzi/miaolingzi/miaolingzi.github.io.git
   branch: master
